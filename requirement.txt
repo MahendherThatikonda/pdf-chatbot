@@ -1,0 +1,8 @@
+langchain
+langchain-groq 
+langchain-openAI
+langchain-community 
+chromadb 
+pypdf 
+streamlit 
+python-dotenv
