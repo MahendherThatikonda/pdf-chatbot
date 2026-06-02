@@ -32,3 +32,4 @@ or research papers without reading the entire document.
 | Vector Store | FAISS |
 | LLM | OpenAI GPT |
 | Interface | Streamlit |
+## Keywords: AI, Artificial Intelligence
